@@ -1,0 +1,4 @@
+HiDevs is a platform focused on AI and software development.
+It provides hands-on, industry-level projects for students.
+The Build Your Own AI Clone project teaches Retrieval Augmented Generation.
+RAG combines vector databases with large language models.
